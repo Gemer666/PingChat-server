@@ -1,4 +1,4 @@
 fastapi==0.111.0
 uvicorn[standard]==0.23.2
-sqlalchemy==2.0.23
+sqlalchemy==1.4.48
 databases==0.9.0
